@@ -1,0 +1,146 @@
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.AssemblyReference.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.AssemblyInfoInputs.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.AssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.exe
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.deps.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.runtimeconfig.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.runtimeconfig.dev.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\ref\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Core.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Data.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Core.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Data.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Services.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\scopedcss\bundle\InventorySystem.Api.styles.css
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\staticwebassets\InventorySystem.Api.StaticWebAssets.Manifest.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.RazorTargetAssemblyInfo.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.CopyComplete
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\ref\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.genruntimeconfig.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\AuthenticationPlugin.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.exe
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.deps.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.runtimeconfig.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.runtimeconfig.dev.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\ref\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Api.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\AuthenticationPlugin.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Core.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Data.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Core.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Data.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\InventorySystem.Services.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.AssemblyReference.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.AssemblyInfoInputs.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.AssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\scopedcss\bundle\InventorySystem.Api.styles.css
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\staticwebassets\InventorySystem.Api.StaticWebAssets.Manifest.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.RazorTargetAssemblyInfo.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.csproj.CopyComplete
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\ref\InventorySystem.Api.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\obj\Debug\net5.0\InventorySystem.Api.genruntimeconfig.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

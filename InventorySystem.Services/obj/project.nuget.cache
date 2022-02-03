@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tvWQqoOIdYNK28zC6xMtIo6NhYX/iVdlfvApwFowoBjRADbcgpIJmQGJKTO1NpgAvOSGcNdocts4NRu8k8WYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gentr\\OneDrive\\Desktop\\Inventory System Back\\InventorySystem - Copy\\InventorySystem.Services\\InventorySystem.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gentr\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\gentr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "077476a4-f442-4cc4-8cc7-f45704bec51b": {
+      "ProjectGuid": "077476a4-f442-4cc4-8cc7-f45704bec51b",
+      "DisplayName": "InventorySystem.Api",
+      "ColorIndex": 0
+    },
+    "2a17860b-4396-4fe8-b385-45e72a49e27d": {
+      "ProjectGuid": "2a17860b-4396-4fe8-b385-45e72a49e27d",
+      "DisplayName": "InventorySystem.Core",
+      "ColorIndex": 1
+    },
+    "d1925316-39f7-43e6-adf3-a77414729bee": {
+      "ProjectGuid": "d1925316-39f7-43e6-adf3-a77414729bee",
+      "DisplayName": "InventorySystem.Data",
+      "ColorIndex": 2
+    },
+    "0f302caf-5a7e-422d-bb3b-ca7c0a52138e": {
+      "ProjectGuid": "0f302caf-5a7e-422d-bb3b-ca7c0a52138e",
+      "DisplayName": "InventorySystem.Services",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

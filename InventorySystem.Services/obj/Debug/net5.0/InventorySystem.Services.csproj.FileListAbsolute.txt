@@ -1,0 +1,30 @@
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.deps.json
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\ref\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Core.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Core.pdb
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.AssemblyReference.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.AssemblyInfoInputs.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.AssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.CopyComplete
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\ref\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\InventorySystemApi\InventorySystem\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.deps.json
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\ref\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Services.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Core.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\bin\Debug\net5.0\InventorySystem.Core.pdb
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.AssemblyReference.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.AssemblyInfoInputs.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.AssemblyInfo.cs
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.csproj.CopyComplete
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\ref\InventorySystem.Services.dll
+C:\Users\gentr\OneDrive\Desktop\Inventory System Back\InventorySystem - Copy\InventorySystem.Services\obj\Debug\net5.0\InventorySystem.Services.pdb
